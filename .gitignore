@@ -1,0 +1,5 @@
+generate
+**/a.out
+**/*.o
+**/*_generated.c
+**/*_user
